@@ -1,0 +1,70 @@
+body {
+    background-color: #00171F;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #2DE1FC;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #2DD881;
+    font-size: 30px;
+    
+}
+
+#header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: #6FEDB7;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: #E4FF1A;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+#gameimg {
+    min-width: 200px;
+    min-height: 200px;
+    max-height: 400px;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+#friends {
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin: 20px;
+    background-color: #C52184;
+}
+
+div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    color: #C52184;
+}
